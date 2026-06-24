@@ -11,6 +11,13 @@ build/
 
 # Generated output
 
+# Submission files (keep local only)
+*_links.tex
+*_links.pdf
+*.pdf
+Student_detail
+REVIEW_SUMMARY.md
+
 # VS Code
 .vscode/
 
